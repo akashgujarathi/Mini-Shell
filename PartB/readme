@@ -1,0 +1,13 @@
+Author: Akash Gujarathi
+email: agujara1@binghamton.edu
+
+File Details:
+1. os.c contains the PART B of the assignment 2.
+
+Steps to executive the program 
+
+1. Run the make file
+2. Make file cerate an os object 
+3. We need to run the program by using ./os 
+
+----------------------------------------------------------------------
